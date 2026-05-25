@@ -1,0 +1,6 @@
+{
+  "name": "Solar Studio Pakistan",
+  "description": "Inspired duplicate of Solar Studio (solarstudio.pk) with solar system pricing packages, an interactive savings calculator, and a real-time voice and text support agent speaking fluent Urdu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
